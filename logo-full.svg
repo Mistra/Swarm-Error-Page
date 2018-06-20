@@ -1,0 +1,71 @@
+<svg width="83.477mm" height="107.43mm" version="1.1" viewBox="0 0 83.477 107.43" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <g display="none">
+  <text transform="scale(1.0173 .98298)" x="9.6367435" y="109.16406" fill="#000300" fill-opacity=".7098" font-family="Poppins" font-size="18.628px" font-weight="300" letter-spacing="0px" stroke-width=".4657" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="9.6367435" y="109.16406" fill="#000300" fill-opacity=".7098" font-family="Poppins" font-size="18.628px" font-weight="300" stroke-width=".4657" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">swarm</tspan></text>
+  <g transform="translate(-60.059 -85.696)">
+   <path d="m79.635 149.73 19.576-11.306v22.612z" fill="#000301" fill-opacity=".76863"/>
+   <path d="m60.059 161.03 19.576 11.306-1.11e-4 -22.611-19.576 11.306" fill="#000302" fill-opacity=".60784"/>
+   <path d="m79.635 127.12-1.11e-4 22.612-19.576-11.306z" fill="#000201" fill-opacity=".90588"/>
+   <path d="m79.635 127.12 19.576 11.306-19.576 11.306 1.11e-4 -22.612" fill="#000201" fill-opacity=".87451"/>
+   <path d="m60.059 138.42v22.612l19.576-11.306z" fill="#000301" fill-opacity=".76863"/>
+   <path d="m79.635 172.34 19.576-11.306-19.576-11.306 1.11e-4 22.611" fill="#000301" fill-opacity=".7098"/>
+  </g>
+  <path d="m22.162 36.961 19.576 11.306-1.08e-4 -22.611-19.576 11.306" fill="#000302" fill-opacity=".60784"/>
+  <path d="m41.739 3.0432-1.08e-4 22.612-19.576-11.306z" fill="#000201" fill-opacity=".90588"/>
+  <g fill="#000301">
+   <path d="m22.162 14.349v22.612l19.576-11.306z" fill-opacity=".76863"/>
+   <path d="m41.739 48.267 19.576-11.306-19.576-11.306 1.08e-4 22.611" fill-opacity=".7098"/>
+   <path d="m51.527 8.7322-9.788 5.6529v11.306l9.788-5.6529z" fill-opacity=".76471"/>
+  </g>
+  <path d="m66.559 11.323 9.788 5.6529-9.788 5.6529z" fill="#000302" fill-opacity=".59216"/>
+  <path d="m41.739 3.0793 9.788 5.6529-9.788 5.6529z" fill="#000201" fill-opacity=".87451"/>
+  <path d="m76.347 16.976-9.788-5.6529 9.788-5.6529z" fill="#000301" fill-opacity=".76863"/>
+  <path d="m51.527 20.038 9.788 5.6529-9.788 5.6529z" fill="#000201" fill-opacity=".87451"/>
+  <path d="m61.315 36.997-9.788-5.6529 9.788-5.6529z" fill="#000301" fill-opacity=".76863"/>
+  <path d="m51.527 31.344-9.788-5.6529 9.788-5.6529z" fill="#000103" fill-opacity=".93725"/>
+  <path d="m66.559 0.0177 9.788 5.6529-9.788 5.6529z" fill="#000201" fill-opacity=".87451"/>
+  <path d="m66.559 11.323-9.788-5.6529 9.788-5.6529z" fill="#000104" fill-opacity=".78431"/>
+  <g transform="translate(-15.734 -85.696)">
+   <path d="m79.635 149.73 19.576-11.306v22.612z" fill="#000301" fill-opacity=".76863"/>
+   <path d="m60.059 161.03 19.576 11.306-1.11e-4 -22.611-19.576 11.306" fill="#000302" fill-opacity=".60784"/>
+   <path d="m79.635 127.12-1.11e-4 22.612-19.576-11.306z" fill="#000201" fill-opacity=".90588"/>
+   <path d="m79.635 127.12 19.576 11.306-19.576 11.306 1.11e-4 -22.612" fill="#000201" fill-opacity=".87451"/>
+   <path d="m60.059 138.42v22.612l19.576-11.306z" fill="#000301" fill-opacity=".76863"/>
+   <path d="m79.635 172.34 19.576-11.306-19.576-11.306 1.11e-4 22.611" fill="#000301" fill-opacity=".7098"/>
+  </g>
+ </g>
+ <g transform="translate(-60.994 -58.006)">
+  <g transform="translate(44.325 -.00024)">
+   <g fill="#000302">
+    <path d="m60.994 110.73 19.576-11.306 19.576 11.306v22.612l-19.576 11.306-19.576-11.306 9e-5 -22.612" fill-opacity=".60784"/>
+    <path d="m80.57 99.426-19.576 11.306v22.612l19.576-11.306v22.612l19.576-11.306v-22.612z" fill-opacity=".25882"/>
+    <path d="m80.57 99.427-19.576 11.306v22.612l19.576-11.306 19.576 11.306v-22.612z" fill-opacity=".19608"/>
+    <path d="m80.57 99.426-19.576 11.306 39.152 22.612v-5.2e-4l-19.576-11.306 19.576-11.306z" fill-opacity=".46275"/>
+   </g>
+   <path d="m80.57 99.426-1.1e-4 22.612-19.576-11.306z" fill="#000301" fill-opacity=".26275"/>
+  </g>
+  <g transform="translate(93.919 -3.5547)" fill="#000202">
+   <path d="m33.635 84.19 9.788-5.6529v-11.306l-9.788-5.6529-9.788 5.6529 9.788 5.6529z" fill-opacity=".59216"/>
+   <path d="m23.847 67.232 19.576 11.306v-11.306l-9.788-5.6529z" fill-opacity=".45098"/>
+   <path d="m33.635 61.579 9.788 5.6529-9.788 5.6529z" fill-opacity=".44314"/>
+  </g>
+  <g transform="translate(71.486 -49.6)">
+   <path d="m31.247 110.69-1.1e-4 22.612-19.576-11.306z" fill="#000201" fill-opacity=".19608"/>
+   <g fill="#000302">
+    <path d="m31.247 155.87-19.576-11.306 9e-5 -22.612 19.576-11.306 9.7881 5.6891v11.306l9.788 5.6529v11.306z" fill-opacity=".60784"/>
+    <path d="m31.247 155.87 2e-5 -22.576-19.576 11.27 9e-5 -22.612 19.576-11.27 9.788 5.6529v11.306l9.788 5.6529 1e-5 11.27z" fill-opacity=".25882"/>
+    <path d="m11.671 144.57 19.576-11.27 19.576 11.27-1e-5 -11.27-9.788-5.6529v-11.306l-9.788-5.6529-19.576 11.27z" fill-opacity=".19608"/>
+    <path d="m41.035 116.38-9.788 5.6529-1.3e-4 11.27-19.576-11.306 19.576-11.306z" fill-opacity=".47059"/>
+    <path d="m31.247 133.3 9.788-5.6529 9.788 5.6529-9.788 5.6529z" fill-opacity=".47059"/>
+   </g>
+   <path d="m41.035 138.95-9.788-5.6529 9.788-5.6529z" fill="#000103" fill-opacity=".45098"/>
+  </g>
+  <g fill="#000302">
+   <path d="m60.994 110.73 19.576-11.306 19.576 11.306v22.612l-19.576 11.306-19.576-11.306 9e-5 -22.612" fill-opacity=".60784"/>
+   <path d="m80.57 99.426-19.576 11.306v22.612l19.576-11.306v22.612l19.576-11.306v-22.612z" fill-opacity=".25882"/>
+   <path d="m80.57 99.427-19.576 11.306v22.612l19.576-11.306 19.576 11.306v-22.612z" fill-opacity=".19608"/>
+   <path d="m80.57 99.426-19.576 11.306 39.152 22.612v-5.2e-4l-19.576-11.306 19.576-11.306z" fill-opacity=".46275"/>
+  </g>
+  <path d="m80.57 99.426-1.1e-4 22.612-19.576-11.306z" fill="#000301" fill-opacity=".26275"/>
+  <text transform="scale(1.0173 .98298)" x="69.593071" y="168.1747" fill="#000300" fill-opacity=".7098" font-family="Poppins" font-size="18.628px" font-weight="300" letter-spacing="0px" stroke-width=".4657" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="69.593071" y="168.1747" fill="#000300" fill-opacity=".7098" font-family="Poppins" font-size="18.628px" font-weight="300" stroke-width=".4657" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">swarm</tspan></text>
+ </g>
+</svg>
