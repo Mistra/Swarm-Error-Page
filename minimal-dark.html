@@ -98,7 +98,7 @@
     .swarm-logo {
       margin: 0 0 20px;
       max-width: 100%;
-      height: 300px;
+      height: 250px;
       background: url('data:image/svg+xml;utf8,<svg version="1.1" viewBox="0 0 115.11 119.77" xmlns="http://www.w3.org/2000/svg"><g transform="translate(4519.7 -1452.6)"><g transform="matrix(.042663 0 0 .042663 -4330 1499.6)" fill="none" stroke="rgb(255, 165, 0)" stroke-width="221.48"><path transform="matrix(.26458 0 0 .26458 -4427.6 242.11)" d="m7988.8-4956.3-1173.5 677.71 1173.5 677.71v1355.4l1173.5-677.71v-1355.4z"/><path transform="matrix(.26458 0 0 .26458 -4427.6 242.11)" d="m5026.1-4592.6-2339.6 1351.2v2702.4l2339.6 1351.2 2339.6-1351.2v-1346.9l-1173.5-677.71v-1355.4z"/><path transform="matrix(.26458 0 0 .26458 -4427.6 242.11)" d="m2377.4-6.1035-2339.6 1351.2v2702.4l2339.6 1351.2 2339.6-1351.2v-2702.4z"/><path transform="matrix(.26458 0 0 .26458 -4427.6 242.11)" d="m7674.8-6.1035-2339.6 1351.2v2702.4l2339.6 1351.2 2339.6-1351.2v-2702.4z"/></g></g></svg>') no-repeat center center;
     }
 
@@ -122,14 +122,24 @@
 
     /* Tablet < 600p*/
 
-    @media only screen and (max-width: 600px) {}
+    @media only screen and (max-width: 600px) {
+      .swarm-logo {
+        height: 200px;
+        margin: 0 0 20px;
+      }
+    }
 
     /* Mobile phone < 360p*/
 
     @media only screen and (max-width: 360px) {
+      h1 {
+        font-size: 20px;
+        font-size: 1.5rem;
+      }
+
       .swarm-logo {
         height: 120px;
-        margin: 20px 0 0 0px !important;
+        margin: 20px 0 0 0px;
       }
 
       .issue h2 {
@@ -165,7 +175,7 @@
 
 <body>
   <div class="container">
-    <h1>Swarm Error</h1>
+    <h1>SWARM ERROR</h1>
   </div>
 
   <a href="/bzz:/theswarm.eth">
